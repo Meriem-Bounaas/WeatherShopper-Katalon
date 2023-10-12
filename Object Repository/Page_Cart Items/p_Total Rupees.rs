@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Total Rupees</name>
+   <tag></tag>
+   <elementGuidId>eae0e700-4ecc-4c22-b48d-842c58f1c7d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='total']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#total</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fac9269a-6f76-41bc-8ff3-866cf53d482f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>justify-content-center h4 top-space-20</value>
+      <webElementGuid>488275d9-5d24-484b-922f-0ed63b57e9d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>total</value>
+      <webElementGuid>17f66bd4-f7a6-4052-b0c0-a013cdbfaa30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total: Rupees 484</value>
+      <webElementGuid>2b778976-42fc-48bc-8ac8-0f14db099be3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;total&quot;)</value>
+      <webElementGuid>196763bb-56d1-4e31-aad0-364f017375b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='total']</value>
+      <webElementGuid>d39fcc75-c874-4db5-921a-bc3cfcc857bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anatoly Ultra Sunblock SPF-50'])[1]/following::p[1]</value>
+      <webElementGuid>5e263f38-6859-4a8c-9bd4-fe57e4b0fe1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vishy La Shield Sunscreen spf-30'])[1]/following::p[1]</value>
+      <webElementGuid>e286fb86-2c1b-4161-8de4-19de9ad6e58b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay with Card'])[1]/preceding::p[1]</value>
+      <webElementGuid>7b8def03-73b3-442c-8e7f-86425f2b3ebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Total: Rupees 484']/parent::*</value>
+      <webElementGuid>97b59342-e2c6-4042-a7ab-947a14b12e5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>19062422-4c45-4ec7-acdd-b405bf076e4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'total' and (text() = 'Total: Rupees 484' or . = 'Total: Rupees 484')]</value>
+      <webElementGuid>db3ef5ee-e5c4-41c0-8101-a0453261faeb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

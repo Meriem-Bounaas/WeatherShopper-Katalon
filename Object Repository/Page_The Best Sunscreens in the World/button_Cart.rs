@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cart</name>
+   <tag></tag>
+   <elementGuidId>03b4d8ae-2a50-4a88-ae9d-4c7a89a714e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Cart - 1 item(s)' or . = 'Cart - 1 item(s)')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.thin-text.nav-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='goToCart()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8d34ebd8-e37d-4c33-967c-b11331b1279a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>goToCart()</value>
+      <webElementGuid>b144ca52-81fe-4dae-b953-29a4a730c208</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>thin-text nav-link</value>
+      <webElementGuid>19cd2ad1-3b05-45d5-a58b-64df1508705d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cart - 1 item(s)</value>
+      <webElementGuid>082126bb-22b8-42eb-ab05-21e27e2011df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/nav[@class=&quot;navbar navbar-expand-sm sticky-top&quot;]/ul[@class=&quot;navbar-nav ml-auto&quot;]/button[@class=&quot;thin-text nav-link&quot;]</value>
+      <webElementGuid>6beeabc9-d402-4d21-83ce-e6030e2a61a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='goToCart()']</value>
+      <webElementGuid>c2630335-8171-4d3b-b6a4-1e2792fea0c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sunscreens'])[1]/preceding::button[1]</value>
+      <webElementGuid>75f27fb9-d39a-4002-b07e-ac8cdbd39ac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/preceding::button[1]</value>
+      <webElementGuid>ab13cf18-d482-43d4-83c6-c16d050a67bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cart -']/parent::*</value>
+      <webElementGuid>1ba6d3b1-2c7b-4a86-ab72-bf213629dce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>c8b72122-d2eb-44a3-ad17-3544784e7108</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Cart - 1 item(s)' or . = 'Cart - 1 item(s)')]</value>
+      <webElementGuid>aa6ec621-767d-4e38-83be-887104ee175a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Add Moisturizers Or Sunscreens To Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f0c9d5c-425e-46af-9306-c15a1b2e303d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1e8559ed-f8b1-41f5-a3b9-bdfbb04df234</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://weathershopper.pythonanywhere.com/moisturizer'</defaultValue>
+      <description></description>
+      <id>1e8559ed-f8b1-41f5-a3b9-bdfbb04df234</id>
+      <masked>false</masked>
+      <name>URL_MOISTURIZERS</name>
+   </variable>
+</TestCaseEntity>
